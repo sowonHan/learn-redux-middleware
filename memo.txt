@@ -9,3 +9,7 @@
 보통 프로젝트를 할 때는 미들웨어를 직접 만들지 않고 남이 만든 미들웨어를 가져다쓴다
 ex] redux-logger,
 redux-thunk, redux-saga 이 둘은 비동기 처리를 위한 미들웨어
+
+redux-thunk 는 액션에서 type이라는 객체를 반환하는 게 아니라 함수를 반환한다
+
+https://jsonplaceholder.typicode.com/
