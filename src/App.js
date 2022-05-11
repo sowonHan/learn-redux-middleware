@@ -4,6 +4,7 @@ import SampleContainer from "./containers/SampleContainer";
 function App() {
   return (
     <div>
+      {/* <CounterContainer /> */}
       <SampleContainer />
     </div>
   );
